@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.db
+reports/
+export.csv
+service_account.json
+.env
+.venv/
