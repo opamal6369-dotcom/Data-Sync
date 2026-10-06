@@ -1,0 +1,5 @@
+order id,customer,order date,amount,region
+1005,Emma Brooks,02/02/2026,310.00,East
+1006,Farid Khan,02/07/2026,45.75,South
+1007,Grace Lee,02/11/2026,199.99,West
+1008,Hiro Tanaka,02/15/2026,75.20,North
